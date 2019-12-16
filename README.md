@@ -14,3 +14,5 @@ Usage
 3. run the main.py file using 'python main.py' command.
 4. for visualizing with TensorBoard use 'tensorboard --logdir=projections --port=8000' command.
 5. Open 'http://localhost:8000/' in any browser.
+
+If you are facing any difficulties while cloning or running the .py file so please raise a issue or read the medium article mentioned above.
