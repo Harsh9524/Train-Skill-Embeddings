@@ -15,4 +15,4 @@ Usage
 4. for visualizing with TensorBoard use 'tensorboard --logdir=projections --port=8000' command.
 5. Open 'http://localhost:8000/' in any browser.
 
-If you are facing any difficulties while cloning or running the .py file so please raise a issue or read the medium article mentioned above.
+If you are facing any difficulties while cloning or running the .py file so please raise a issue or read the article here - http://harshpanwar.me/train-skill-embeddings.
